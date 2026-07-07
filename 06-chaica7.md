@@ -45,7 +45,7 @@ To be updated.
 
 **Important Dates:**
 
-Jyly 15, 2026 : *Pre-Announcement*
+July 15, 2026 : *Pre-Announcement*
 
 August 10, 2026 : *Registeration Opens*
 
