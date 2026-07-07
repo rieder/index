@@ -8,6 +8,8 @@ Caption: Numerical simulation of globular-cluster formation in giant molecular c
 Credit: [Michiko Fujii, Takaaki Takeda; Fujii et. al. 2024](https://ui.adsabs.harvard.edu/abs/2024Sci...384.1488F/abstract)
 
 
+**Upcoming Event [NEW] - ChaICA-VII** [Details Here]({{ site.baseurl }}/chaica7)
 
 **Upcoming Event [NEW] - IAU Symposium 415** [Details Here]({{ site.baseurl }}/iaus415)
+
 

@@ -13,6 +13,8 @@ main:
     url: /resources/
   - title: "IAUS 415"
     url: /iaus415/
+  - title: "ChaICA 7"
+    url: /chaica7/
   - title: "FAQs"
     url: /faqs/
 
