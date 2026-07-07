@@ -11,6 +11,10 @@ sidebar:
 # Upcoming Events 
 
 1. <mark>NEW</mark>  
+*November 17-19, 2026*
+**Challenges and Innovations in Computational Astrophysics VII** [ChaICA-7]({{ site.baseurl }}/chaica7)
+
+2. <mark>NEW</mark>  
 *August 10-12, 2027*
 **IAU Symposium 415 (GA 2027) : Computational Horizons in Astrophysics - Bridging Theory, Data, and Discovery** [IAUS415]({{ site.baseurl }}/iaus415)
 
