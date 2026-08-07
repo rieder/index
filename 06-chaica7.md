@@ -45,9 +45,8 @@ To be updated.
 
 **Important Dates:**
 
-July 15, 2026 : *Pre-Announcement*
 
-August 10, 2026 : *Registeration Opens*
+August 15, 2026 : *Registeration Opens*
 
 October 01, 2026 : *Abstract Submission Deadline*
 
@@ -55,9 +54,28 @@ October 17, 2026 : *Selection of Abstracts and Announcement of Schedule*
 
 
 **Registeration:**
+<mark>NEW</mark>
 
-The registeration details will be updated here. 
+The registeration can be done [here]<https://forms.gle/uh51eus1Y2x2Pzf98>
 
+**Programme:**
+
+The 3-day hybrid workshop will have 3 sessions per day to cover the different time zones. 
+These sessions are listed below: 
+
+Session 1 Nov 17th 8:00 -10:00 UTC 
+Session 2 Nov 17th 13:00-15:00 UTC 
+Session 3 Nov 17th 20:00 - 22:00 UTC 
+
+Session 4 Nov 18th 8:00 -10:00 UTC 
+Session 5 Nov 18th 13:00-15:00 UTC 
+Session 6 Nov 18th 20:00 - 22:00 UTC 
+
+Session 7 Nov 19th 8:00 -10:00 UTC 
+Session 8 Nov 19th 13:00-15:00 UTC 
+Session 9 Nov 19th 20:00 - 22:00 UTC 
+
+Detailed schedule will be updated here. 
 
 **Scientific Organizing Committee**
 
