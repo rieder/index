@@ -74,7 +74,7 @@ October 17, 2026 : *Selection of Abstracts and Announcement of Schedule*
 **Registeration:**
 <mark>NEW</mark>
 
-The registeration can be done [here]<https://forms.gle/uh51eus1Y2x2Pzf98>
+The registeration can be done [here](https://forms.gle/uh51eus1Y2x2Pzf98)
 
 
 **Scientific Organizing Committee**
