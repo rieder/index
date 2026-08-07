@@ -20,7 +20,28 @@ This is the 7th edition of the ChaICA series of meetings on computational astrop
 
 **Schedule**
 
-The schedule for CHAICA-7 will be updated here.
+The 3-day hybrid workshop will have 3 sessions 
+per day to cover the different time zones. 
+These sessions are listed below: 
+
+| Date | Session | Time |
+| :--- | :---: | ---: |
+| Centered text | Centered text | Centered text |
+| Nov 17th | Session 1 | 8:00 -10:00 UTC |
+| Nov 17th | Session 2 | 13:00-15:00 UTC |
+| Nov 17th | Session 3 | 20:00-22:00 UTC |
+| :--- | :---: | ---: |
+| Nov 18th | Session 1 | 8:00-10:00 UTC |
+| Nov 18th | Session 2 | 13:00-15:00 UTC |
+| Nov 18th | Session 3 | 20:00-22:00 UTC |
+| :--- | :---: | ---: |
+| Nov 19th | Session 1 | 8:00-10:00 UTC |
+| Nov 19th | Session 2 | 13:00-15:00 UTC |
+| Nov 19th | Session 3 | 20:00-22:00 UTC |
+| :--- | :---: | ---: |
+
+
+The detailed schedule for CHAICA-7 will be updated here.
 
 **Topics to be covered:**
 
@@ -58,24 +79,6 @@ October 17, 2026 : *Selection of Abstracts and Announcement of Schedule*
 
 The registeration can be done [here]<https://forms.gle/uh51eus1Y2x2Pzf98>
 
-**Programme:**
-
-The 3-day hybrid workshop will have 3 sessions per day to cover the different time zones. 
-These sessions are listed below: 
-
-Session 1 Nov 17th 8:00 -10:00 UTC 
-Session 2 Nov 17th 13:00-15:00 UTC 
-Session 3 Nov 17th 20:00 - 22:00 UTC 
-
-Session 4 Nov 18th 8:00 -10:00 UTC 
-Session 5 Nov 18th 13:00-15:00 UTC 
-Session 6 Nov 18th 20:00 - 22:00 UTC 
-
-Session 7 Nov 19th 8:00 -10:00 UTC 
-Session 8 Nov 19th 13:00-15:00 UTC 
-Session 9 Nov 19th 20:00 - 22:00 UTC 
-
-Detailed schedule will be updated here. 
 
 **Scientific Organizing Committee**
 
