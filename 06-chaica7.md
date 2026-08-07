@@ -26,19 +26,16 @@ These sessions are listed below:
 
 | Date | Session | Time |
 | :--- | :---: | ---: |
-| Centered text | Centered text | Centered text |
 | Nov 17th | Session 1 | 8:00 -10:00 UTC |
 | Nov 17th | Session 2 | 13:00-15:00 UTC |
 | Nov 17th | Session 3 | 20:00-22:00 UTC |
-| :--- | :---: | ---: |
 | Nov 18th | Session 1 | 8:00-10:00 UTC |
 | Nov 18th | Session 2 | 13:00-15:00 UTC |
 | Nov 18th | Session 3 | 20:00-22:00 UTC |
-| :--- | :---: | ---: |
 | Nov 19th | Session 1 | 8:00-10:00 UTC |
 | Nov 19th | Session 2 | 13:00-15:00 UTC |
 | Nov 19th | Session 3 | 20:00-22:00 UTC |
-| :--- | :---: | ---: |
+
 
 
 The detailed schedule for CHAICA-7 will be updated here.
